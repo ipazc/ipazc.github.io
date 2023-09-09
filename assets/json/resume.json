@@ -1,69 +1,228 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Iván de Paz Centeno",
+    "label": "Ph.D in Computer Science (Artificial Intelligence)",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://www.ipazc.com/",
+    "summary": "Iván de Paz Centeno is a computer scientist from Spain, holding a Ph.D. in Computer Science with a specialization in Artificial Intelligence. He has made significant scientific contributions to the field of Artificial Intelligence. Currently based in León, Castilla y León, Spain, Iván has a robust background in both industry and academia. His expertise lies in developing Artificial Intelligence models for various applications, focusing on energy time series analysis, computer vision, and machine learning. He is a dedicated learner, problem solver, and collaborator, known for delivering impactful solutions.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "León",
+      "countryCode": "Spain",
+      "region": "Castilla y León"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "ipazc",
+        "url": "https://github.com/ipazc"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "5213005",
+        "url": "https://stackoverflow.com/users/5213005/ivan-de-paz-centeno"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "SMARKIA ENERGY SL",
+      "position": "Data Scientist and Machine Learning Engineer",
+      "url": "https://www.smarkia.com",
+      "startDate": "2018-07-01",
+      "endDate": "PRESENT",
+      "summary": "Research into creation of Artificial Intelligence models applied to energy time series.",
       "highlights": [
-        "Relativity"
+        "Topics covered: data quality improvement (absence imputation, granularity standarization, super-resolution, anomaly detection)",
+        "Machine Learning and Deep Learning",
+        "Python, Pandas, Numpy, TensorFlow, Scikit-learn, Jupyter notebooks, Matplotlib, Plotly",
+        "Industrial PhD",
+        "Azure Machine Learning, Azure Blob Storage, Azure Container Apps"
+      ]
+    },
+    {
+      "name": "University of Leon / INCIBE",
+      "position": "Researcher in Computer Vision and Machine Learning",
+      "url": "https://www.incibe.es",
+      "startDate": "2016-07-01",
+      "endDate": "2018-03-01",
+      "summary": "Research into creation of computer vision models based on Deep Learning applied to cybersecurity contexts in police environments.",
+      "highlights": [
+        "Topics covered: face detection, age and gender estimation, face recognition",
+        "Computer Vision, Machine Learning and Deep Learning",
+        "Python, Caffe, OpenCV, OpenBR, TensorFlow, Flask, Docker"
+      ]
+    },
+    {
+      "name": "INDRA",
+      "position": "Software Developer",
+      "url": "https://www.indracompany.com/",
+      "startDate": "2015-11-01",
+      "endDate": "2016-07-01",
+      "summary": "Development of an Android system for remote management of physical signal jammers designed for Spanish state law enforcement agencies.",
+      "highlights": [
+        "Topics covered: Android, signal management",
+        "Java, C, C++"
+      ]
+    },
+    {
+      "name": "University of Leon",
+      "position": "Developer and research intenship",
+      "url": "https://www.unileon.es/",
+      "startDate": "2015-03-01",
+      "endDate": "2015-10-01",
+      "summary": "Development of a portable artificial intelligence system comprising face detection, recognition and age and gender estimation, designed for small appliances.",
+      "highlights": [
+        "Topics covered: face detection, face recognition, age estimation, gender estimation",
+        "Python, OpenCV, OpenBR, HTML, Javascript, JQuery, CSS",
+        "Raspberry PI2, ODroid U3"
+      ]
+    },
+    {
+      "name": "Hewlett-Packard",
+      "position": "Developer intenship",
+      "url": "https://www.hp.com/",
+      "startDate": "2014-10-01",
+      "endDate": "2015-06-01",
+      "summary": "Development of a surveillance solution for remote cameras to detect movement, store video in the cloud and notify clients with alarms.",
+      "highlights": [
+        "Topics covered: IP/USB Cameras, codecs for video compression, data storage, phone events",
+        "C#, Java, Android, HTML, Javascript, JQuery, CSS",
+        "IP/USB Cameras, Raspberry PI2",
+        "Dropbox cloud"        
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "Universidad de León, León, Spain",
+      "url": "https://www.unileon.es/",
+      "area": "Production and Computer Engineering (Artificial Intelligence)",
+      "studyType": "PhD in Artificial Intelligence",
+      "startDate": "2016",
+      "endDate": "2023",
+      "score": "10 (Cum Laude)",
       "courses": [
-        "Theory of Relativity"
+        "Artificial Intelligence, Machine Learning, Deep Learning",
+        "Energy Time Series, Energy Load Profiles, Photovoltaic Systems",
+        "Forecasting, Comparison, Synthesis, Prediction, Anomaly detection, Clustering"
       ]
+    },
+    {
+      "institution": "Universidad de León, León, Spain",
+      "url": "https://www.unileon.es/",
+      "area": "Computer Science",
+      "studyType": "Master's degree in Computer Science",
+      "startDate": "2015",
+      "endDate": "2017",
+      "score": ""
+    },
+    {
+      "institution": "Universidad de León, León, Spain",
+      "url": "https://www.unileon.es/",
+      "area": "Computer Science",
+      "studyType": "Bachelor's degree in Computer Science",
+      "startDate": "2010",
+      "endDate": "2015",
+      "score": ""
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "PhD Dissertation with Distinction",
+      "date": "2023-06",
+      "awarder": "University of León",
+      "summary": "Received a Cum Laude award for the PhD dissertation with an industrial mention."
+    },
+    {
+      "title": "Extraordinary End-of-Career Award",
+      "date": "2018-03",
+      "awarder": "Universidad de León",
+      "summary": "Honored with the Extraordinary End-of-Career Award for the Master's degree in Computer Science."
+    },
+    {
+      "title": "1st Position in Hack2Progress",
+      "date": "2016-11",
+      "url": "https://web.unican.es/noticias/Paginas/2016/noviembre_2016/El-proyecto-Dynamics-Bus-gana-el-II-Hack2Progress.aspx",
+      "awarder": "CIC Consulting Informático",
+      "summary": "Achieved the first position in the Hack2Progress 2016 hackathon held in Santander, Spain."
+    },
+    {
+      "title": "2nd Position in HackForGood",
+      "date": "2016-02",
+      "awarder": "HackForGood",
+      "summary": "Secured the second position in the HackForGood 2016 hackathon held in León, Spain."
+    },
+    {
+      "title": "Best IT Project",
+      "date": "2015-07",
+      "awarder": "HP (Observatory)",
+      "summary": "Received an award for developing the best IT project for the HP Observatory in 2015, located in León, Spain."
+    }    
+  ],
+  "certificates": [
+    {
+      "name": "Convolutional Neural Networks",
+      "issuer": "Deeplearning.ai through Coursera",
+      "date": "2018-11",
+      "url":"https://www.coursera.org/account/accomplishments/verify/24MNSGYST56P"
+    },
+    {
+      "name": "Structuring Machine Learning Projects",
+      "issuer": "Deeplearning.ai through Coursera",
+      "date": "2018-06",
+      "url":"https://www.coursera.org/account/accomplishments/verify/DADTT6PY98AU"
+    },
+    {
+      "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+      "issuer": "Deeplearning.ai through Coursera",
+      "date": "2018-05",
+      "url":"https://www.coursera.org/account/accomplishments/verify/9SKDTKUXE36D"
+    },
+    {
+      "name": "Neural Networks and Deep Learning",
+      "issuer": "Deeplearning.ai through Coursera",
+      "date": "2018-05",
+      "url":"https://www.coursera.org/account/accomplishments/verify/6HFFAWXFMKES"
     }
   ],
-  "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+      "releaseDate": "2023",
+      "publisher": "Expert Systems with Applications",
+      "name": "Imputation of missing measurements in PV production data within constrained environments",
+      "summary": ""
+    },
+    {
+      "releaseDate": "2023",
+      "publisher": "IEEE Access",
+      "name": "A Granularity Invariant Method for the Classification of Energy Production Time Series in Photovoltaic Plants",
+      "summary": ""
+    },
+    {
+      "releaseDate": "2022",
+      "publisher": "2022 International Conference on Electrical, Computer and Energy Technologies (ICECET)",
+      "name": "Using Super Resolution Perception for Anomaly Detection in Energy Load Profiles",
+      "summary": ""
+    },
+    {
+      "releaseDate": "2021",
+      "publisher": "Energies",
+      "name": "M-SRPCNN: A Fully Convolutional Neural Network Approach for Handling Super Resolution Reconstruction on Monthly Energy Consumption Environments",
+      "summary": ""
+    },
+    {
+      "releaseDate": "2017",
+      "publisher": "Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers",
+      "name": "Classifying Illegal Activities on Tor Network Based on Web Textual Contents",
+      "summary": ""
+    }
+
+  ],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Spain",
       "fluency": "Native speaker"
     },
     {

@@ -33,6 +33,18 @@ body.sticky-bottom-footer {
   }
 }
 
+.clearfix {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+article {
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+}
+
 // TODO: redefine content layout.
 
 

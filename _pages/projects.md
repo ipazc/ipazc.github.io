@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects developed, including personal ones created for entertainment during free time as well as those undertaken as part of work assignments.
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 4
+display_categories: [Artificial Intelligence, Cryptocurrencies]
 horizontal: false
 ---
 

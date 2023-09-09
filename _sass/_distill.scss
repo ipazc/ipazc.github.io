@@ -17,10 +17,14 @@ d-byline a, d-article d-byline a {
   }
 }
 
-d-article {
+d-article {   
   border-top-color: var(--global-divider-color) !important;
   p, h1, h2, h3, h4, h5, h6, li, table {
     color: var(--global-text-color) !important;
+  }
+  p {
+    text-align: justify;
+    text-justify: inter-word;
   }
   h1, h2, hr, table, table th, table td {
     border-bottom-color: var(--global-divider-color) !important;

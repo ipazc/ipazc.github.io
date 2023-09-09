@@ -2,26 +2,26 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Iván de Paz Centeno
     - name: Date of Birth
-      value: 14th March 1879
+      value: 6th November 1991
     - name: Languages
-      value: English, German
+      value: Spanish, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Leon, Leon, Spain
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Artificial Intelligence.
+        - Machine Learning.
+        - title: Artificial Intelligence.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
+            - Machine-Learning.
+            - Deep-Learning.
+    - title: Bachelor's degree in
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
       description:
