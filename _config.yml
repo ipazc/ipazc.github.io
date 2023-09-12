@@ -8,14 +8,14 @@ middle_name: de Paz
 last_name: Centeno
 email: ipazc@unileon.es
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The personal website of Ph.D Iván de Paz Centeno.
+  The personal website of PhD Iván de Paz Centeno.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: ivan, de, paz, centeno, website, phd  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 👨  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ipazc.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
@@ -140,13 +140,13 @@ related_blog_posts:
 # the information below.
 giscus:
   repo: ipazc/ipazc.github.io      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  repo_id: Ul9rZ0RPS1A3U0pRCg==
   category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6
-  mapping: title                 # identify discussions by post title
+  category_id: DIC_kwDOKP7SJc4CZPZF
+  mapping: pathname                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
+  input_position: top         # whether to display input form below (bottom) or above (top) the comments
   theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
