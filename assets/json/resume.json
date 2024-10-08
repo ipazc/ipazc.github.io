@@ -26,17 +26,42 @@
   "work": [
     {
       "name": "SMARKIA ENERGY SL",
-      "position": "Data Scientist and Machine Learning Engineer",
+      "position": "Chief Artificial Intelligence Officer (CAIO)",
+      "url": "https://www.smarkia.com",
+      "startDate": "2024-10-09",
+      "endDate": "PRESENT",
+      "summary": "Leading the AI strategy across the organization, implementing AI-driven solutions to optimize processes and innovation.",
+      "highlights": [
+        "Member of the executive leadership team, driving AI integration across all company departments.",
+        "Leading a team of AI researchers and engineers to develop scalable machine learning models.",
+        "Spearheading initiatives for AI ethics and governance within the company."
+      ]
+    },
+    {
+      "name": "SMARKIA ENERGY SL",
+      "position": "Lead Research Scientist",
+      "url": "https://www.smarkia.com",
+      "startDate": "2022-01-01",
+      "endDate": "2024-10-08",
+      "summary": "Led a team of 4 PhD-level AI researchers in developing innovative AI solutions for energy management.",
+      "highlights": [
+        "Directed research projects focused on AI model development for energy time series analysis.",
+        "Collaborated with cross-functional teams to integrate AI solutions into business operations.",
+        "Mentored and guided team members in advancing AI methodologies."
+      ]
+    },
+    {
+      "name": "SMARKIA ENERGY SL",
+      "position": "AI Research Scientist",
       "url": "https://www.smarkia.com",
       "startDate": "2018-07-01",
-      "endDate": "PRESENT",
-      "summary": "Research into creation of Artificial Intelligence models applied to energy time series.",
+      "endDate": "2021-12-31",
+      "summary": "Conducted research and development of AI models applied to energy time series.",
       "highlights": [
-        "Topics covered: data quality improvement (absence imputation, granularity standarization, super-resolution, anomaly detection)",
-        "Machine Learning and Deep Learning",
-        "Python, Pandas, Numpy, TensorFlow, Scikit-learn, Jupyter notebooks, Matplotlib, Plotly",
-        "Industrial PhD",
-        "Azure Machine Learning, Azure Blob Storage, Azure Container Apps"
+        "Topics covered: data quality improvement (absence imputation, granularity standardization, super-resolution, anomaly detection).",
+        "Applied Machine Learning and Deep Learning techniques to energy data.",
+        "Utilized Python, Pandas, Numpy, TensorFlow, Scikit-learn, Jupyter notebooks, Matplotlib, and Plotly.",
+        "Developed AI models using Azure Machine Learning, Azure Blob Storage, and Azure Container Apps."
       ]
     },
     {
@@ -47,9 +72,9 @@
       "endDate": "2018-03-01",
       "summary": "Research into creation of computer vision models based on Deep Learning applied to cybersecurity contexts in police environments.",
       "highlights": [
-        "Topics covered: face detection, age and gender estimation, face recognition",
-        "Computer Vision, Machine Learning and Deep Learning",
-        "Python, Caffe, OpenCV, OpenBR, TensorFlow, Flask, Docker"
+        "Topics covered: face detection, age and gender estimation, face recognition.",
+        "Computer Vision, Machine Learning, and Deep Learning.",
+        "Python, Caffe, OpenCV, OpenBR, TensorFlow, Flask, Docker."
       ]
     },
     {
@@ -60,35 +85,35 @@
       "endDate": "2016-07-01",
       "summary": "Development of an Android system for remote management of physical signal jammers designed for Spanish state law enforcement agencies.",
       "highlights": [
-        "Topics covered: Android, signal management",
-        "Java, C, C++"
+        "Topics covered: Android, signal management.",
+        "Java, C, C++."
       ]
     },
     {
       "name": "University of Leon",
-      "position": "Developer and research intenship",
+      "position": "Developer and research internship",
       "url": "https://www.unileon.es/",
       "startDate": "2015-03-01",
       "endDate": "2015-10-01",
-      "summary": "Development of a portable artificial intelligence system comprising face detection, recognition and age and gender estimation, designed for small appliances.",
+      "summary": "Development of a portable artificial intelligence system comprising face detection, recognition, and age and gender estimation, designed for small appliances.",
       "highlights": [
-        "Topics covered: face detection, face recognition, age estimation, gender estimation",
-        "Python, OpenCV, OpenBR, HTML, Javascript, JQuery, CSS",
-        "Raspberry PI2, ODroid U3"
+        "Topics covered: face detection, face recognition, age estimation, gender estimation.",
+        "Python, OpenCV, OpenBR, HTML, Javascript, JQuery, CSS.",
+        "Raspberry PI2, ODroid U3."
       ]
     },
     {
       "name": "Hewlett-Packard",
-      "position": "Developer intenship",
+      "position": "Developer internship",
       "url": "https://www.hp.com/",
       "startDate": "2014-10-01",
       "endDate": "2015-06-01",
-      "summary": "Development of a surveillance solution for remote cameras to detect movement, store video in the cloud and notify clients with alarms.",
+      "summary": "Development of a surveillance solution for remote cameras to detect movement, store video in the cloud, and notify clients with alarms.",
       "highlights": [
-        "Topics covered: IP/USB Cameras, codecs for video compression, data storage, phone events",
-        "C#, Java, Android, HTML, Javascript, JQuery, CSS",
-        "IP/USB Cameras, Raspberry PI2",
-        "Dropbox cloud"        
+        "Topics covered: IP/USB Cameras, codecs for video compression, data storage, phone events.",
+        "C#, Java, Android, HTML, Javascript, JQuery, CSS.",
+        "IP/USB Cameras, Raspberry PI2.",
+        "Dropbox cloud."
       ]
     }
   ],
@@ -158,32 +183,32 @@
       "date": "2015-07",
       "awarder": "HP (Observatory)",
       "summary": "Received an award for developing the best IT project for the HP Observatory in 2015, located in León, Spain."
-    }    
+    }
   ],
   "certificates": [
     {
       "name": "Convolutional Neural Networks",
       "issuer": "Deeplearning.ai through Coursera",
       "date": "2018-11",
-      "url":"https://www.coursera.org/account/accomplishments/verify/24MNSGYST56P"
+      "url": "https://www.coursera.org/account/accomplishments/verify/24MNSGYST56P"
     },
     {
       "name": "Structuring Machine Learning Projects",
       "issuer": "Deeplearning.ai through Coursera",
       "date": "2018-06",
-      "url":"https://www.coursera.org/account/accomplishments/verify/DADTT6PY98AU"
+      "url": "https://www.coursera.org/account/accomplishments/verify/DADTT6PY98AU"
     },
     {
       "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
       "issuer": "Deeplearning.ai through Coursera",
       "date": "2018-05",
-      "url":"https://www.coursera.org/account/accomplishments/verify/9SKDTKUXE36D"
+      "url": "https://www.coursera.org/account/accomplishments/verify/9SKDTKUXE36D"
     },
     {
       "name": "Neural Networks and Deep Learning",
       "issuer": "Deeplearning.ai through Coursera",
       "date": "2018-05",
-      "url":"https://www.coursera.org/account/accomplishments/verify/6HFFAWXFMKES"
+      "url": "https://www.coursera.org/account/accomplishments/verify/6HFFAWXFMKES"
     }
   ],
   "publications": [
@@ -217,12 +242,11 @@
       "name": "Classifying Illegal Activities on Tor Network Based on Web Textual Contents",
       "summary": ""
     }
-
   ],
   "skills": [],
   "languages": [
     {
-      "language": "Spain",
+      "language": "Spanish",
       "fluency": "Native speaker"
     },
     {
