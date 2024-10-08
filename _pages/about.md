@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D in Artificial Intelligence. Data Scientist, Machine Learning Engineer
+subtitle: Ph.D in Artificial Intelligence. Chief AI Officer at SMARKIA.
 
 profile:
   align: right
@@ -17,11 +17,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I consider myself a passionate individual about technology and computer science, embarking on my journey as a self-taught programmer back in 1996 with Basic on an Amstrad CPC 6128. My formal studies in the field of computer science commenced at the University of León, where I earned my bachelor's degree in computer science in 2015. I continued with an official master's degree in computer engineering in 2017 and culminated my academic journey with a Ph.D. in production engineering and computing with a focus on artificial intelligence in 2023.
+I’m a technology enthusiast who has been fascinated by computers since I first started programming in Basic on an Amstrad CPC 6128 back in 1996. This curiosity led me to formally study computer science at the University of León (Spain), where I earned my bachelor's degree in 2015, followed by a master's degree in computer engineering in 2017. In 2023, I completed my Ph.D. in production engineering and computing, focusing on applying artificial intelligence to optimize energy consumption and production management.
 
-My doctoral thesis was centered around the application of artificial intelligence to optimize energy consumption and production management, standing out for the development of innovative machine learning and deep learning methods. My research involved creating custom artificial neural networks and advanced techniques for analyzing time series energy data, enabling absence imputation, granularity reconstruction, anomaly detection, and data classification.
+During my Ph.D., I worked on developing AI methods like custom neural networks and techniques for analyzing time-series energy data. The goal was to find practical solutions for challenges like data imputation, anomaly detection, and classification—things that could have a real impact on how we use and manage energy.
 
-I have been working in computer-related positions since 2014, transitioning from roles in public research at the National Institute of Cybersecurity to the private sector at SMARKIA Energy SL. The past 8 years have been particularly significant, as I specialized in a data science and machine learning engineering role. This has allowed me to gain profound expertise in the realms of computer science and artificial intelligence. I'm a passionate autodidact with experience in a wide range of programming languages, with a high degree of specialization in Python, including advanced proficiency in frameworks such as Numpy, Pandas, Tensorflow, Scikit-Learn, and Matplotlib. My skills also extend to server administration, especially in Linux environments like Debian and Ubuntu, and I have a strong interest in Microsoft Azure cloud services, where I feel comfortable with offerings such as Azure Blob Storage and Azure Container Apps for deploying auto-scalable services.
+Since 2014, I've been fortunate enough to work in different roles across both public research and the private sector. My journey began at the National Institute of Cybersecurity, and I later transitioned into the private sector with SMARKIA Energy SL, where I currently serve as Chief AI Officer (CAIO). In this role, I have the privilege of leading AI-driven initiatives that aim to create practical solutions for energy management, combining my passion for technology with real-world impact.
 
-My dedication to research is evident through my publications in renowned scientific journals, where I have made significant contributions to the field of artificial intelligence. In addition to my research, I have actively participated in various Hackathons, achieving first and second place awards in two of them, and have presented at conferences around the world. I have also created the successful Python package [MTCNN](https://github.com/ipazc/mtcnn) for face detection, which has garnered over 2,000 stars on GitHub. 
+I’m most comfortable working with Python and its ecosystem of tools like Numpy, Pandas, TensorFlow, and Scikit-Learn. I also have experience with server administration in Linux environments, especially Debian and Ubuntu, and I enjoy exploring the capabilities of Microsoft Azure’s cloud services for deploying scalable solutions.
 
+Outside of work, I’ve been involved in research, publishing a few articles in scientific journals, and I’ve had the chance to participate in Hackathons and present at conferences around the world. I also developed a Python package called [MTCNN](https://github.com/ipazc/mtcnn) for face detection, which has received some positive feedback from the open-source community.
+
+At the end of the day, I consider myself a lifelong learner who’s always eager to take on new challenges, whether it's through research, coding, or just experimenting with new technologies.
