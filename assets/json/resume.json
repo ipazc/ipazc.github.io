@@ -1,14 +1,15 @@
 {
   "basics": {
     "name": "Iván de Paz Centeno",
-    "label": "PhD in Computer Science (Artificial Intelligence)",
+    "label": "PhD in Artificial Intelligence · Founder of RelevAI & AI Consultant · Former Chief AI Officer",
     "image": "",
     "url": "https://ipazc.com/",
-    "summary": "Iván de Paz Centeno is a computer scientist from Spain, holding a Ph.D. in Computer Science with a specialization in Artificial Intelligence. He has made significant scientific contributions to the field of Artificial Intelligence. Currently based in León, Castilla y León, Spain, Iván has a robust background in both industry and academia. His expertise lies in developing Artificial Intelligence models for various applications, focusing on energy time series analysis, computer vision, and machine learning. He is a dedicated learner, problem solver, and collaborator, known for delivering impactful solutions.",
+    "summary": "Iván de Paz Centeno founder of RelevAI S.L. is a PhD-level Artificial Intelligence specialist with a strong background in applied AI, Large Language Models, and AI system architecture. He has led and implemented AI solutions across industry and research, ranging from energy analytics and predictive maintenance to NLP, RAG systems, and agent-based LLM workflows. Iván combines deep technical expertise with strategic vision, delivering production-ready AI systems for real-world impact.",
+    "summary short": "PhD in Artificial Intelligence, Founder of RelevAI & AI Consultant specialised in LLMs, RAG systems, and applied AI architectures.",
     "location": {
       "city": "León",
-      "countryCode": "Spain",
-      "region": "Castilla y León"
+      "region": "Castilla y León",
+      "countryCode": "ES"
     },
     "profiles": [
       {
@@ -20,195 +21,192 @@
         "network": "Stack Overflow",
         "username": "5213005",
         "url": "https://stackoverflow.com/users/5213005/ivan-de-paz-centeno"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ivan-de-paz-centeno",
+        "url": "https://www.linkedin.com/in/ivan-de-paz-centeno/"
+      },
+      { 
+        "network": "Google scholar",
+        "username": "MsboynQAAAAJ",
+        "url": "https://scholar.google.com/citations?user=MsboynQAAAAJ&hl=es"
+      },
+      {
+        "network": "ORCID",
+        "username": "0000-0002-9004-4685",
+        "url": "https://orcid.org/0000-0002-9004-4685"
       }
     ]
   },
   "work": [
     {
-      "name": "SMARKIA ENERGY SL",
+      "name": "RelevAI, S.L.",
+      "position": "Founder & CEO / AI Consultant / Technology Implementer",
+      "url": "https://relev.ai",
+      "startDate": "2025-05-01",
+      "endDate": "",
+      "summary": "Design, development, and deployment of applied artificial intelligence solutions with a strong focus on Natural Language Processing and Large Language Models.",
+      "highlights": [
+        "Designed and deployed LLM-based solutions including retrieval-augmented generation (RAG) systems and domain-specific assistants.",
+        "Evaluated, fine-tuned, and integrated large language models into production-ready systems.",
+        "Developed bespoke AI-powered software solutions addressing concrete business and operational needs.",
+        "Designed and deployed scalable AI system architectures for experimentation, testing, and production workloads.",
+        "Provided AI consulting services translating business needs into robust, maintainable technical solutions."
+      ]
+    },
+    {
+      "name": "Smarkia Energy S.L.",
       "position": "Chief Artificial Intelligence Officer (CAIO)",
       "url": "https://www.smarkia.com",
-      "startDate": "2024-10-09",
-      "endDate": "PRESENT",
-      "summary": "Leading the AI strategy across the organization, implementing AI-driven solutions to optimize processes and innovation.",
+      "startDate": "2024-10-01",
+      "endDate": "2025-04-30",
+      "summary": "Led enterprise-wide AI strategy and implementation, focusing on LLM-driven automation, decision support, and AI-enabled SaaS evolution.",
       "highlights": [
-        "Member of the executive leadership team, driving AI integration across all company departments.",
-        "Leading a team of AI researchers and engineers to develop scalable machine learning models.",
-        "Spearheading initiatives for AI ethics and governance within the company."
+        "Defined and executed the corporate AI roadmap, delivering multiple AI initiatives focused on automation and decision support.",
+        "Designed and implemented LLM-based automation platforms, reducing manual workflows from weeks to hours.",
+        "Co-developed natural language interfaces enabling intelligent interaction with the SaaS platform.",
+        "Implemented multi-agent LLM workflows to automate internal processes across departments.",
+        "Acted as the company’s AI interface with clients, partners, and external technology providers.",
+        "Analysed AI regulations and contributed to legal and compliance alignment of deployed solutions."
       ]
     },
     {
-      "name": "SMARKIA ENERGY SL",
-      "position": "Lead Research Scientist",
+      "name": "Smarkia Energy S.L.",
+      "position": "AI Research Team Lead",
       "url": "https://www.smarkia.com",
-      "startDate": "2022-01-01",
-      "endDate": "2024-10-08",
-      "summary": "Led a team of 4 PhD-level AI researchers in developing innovative AI solutions for energy management.",
+      "startDate": "2023-07-01",
+      "endDate": "2024-10-01",
+      "summary": "Leadership and execution of applied AI initiatives for energy analytics, forecasting, anomaly detection, and predictive maintenance.",
       "highlights": [
-        "Directed research projects focused on AI model development for energy time series analysis.",
-        "Collaborated with cross-functional teams to integrate AI solutions into business operations.",
-        "Mentored and guided team members in advancing AI methodologies."
+        "Led an AI research team composed of PhD-level researchers, coordinating work with product and development teams.",
+        "Analysed data from hundreds of inverters across approximately 900 photovoltaic plants.",
+        "Designed and implemented ML and DL models for forecasting and anomaly detection.",
+        "Developed AI prototypes for energy consumption and production optimisation.",
+        "Ensured integration of research outputs into the company’s SaaS platform."
       ]
     },
     {
-      "name": "SMARKIA ENERGY SL",
-      "position": "AI Research Scientist",
+      "name": "Smarkia Energy S.L.",
+      "position": "Principal Researcher (Industrial PhD)",
       "url": "https://www.smarkia.com",
       "startDate": "2018-07-01",
-      "endDate": "2021-12-31",
-      "summary": "Conducted research and development of AI models applied to energy time series.",
+      "endDate": "2023-07-01",
+      "summary": "Industrial PhD focused on AI-based energy optimisation, forecasting, and predictive maintenance.",
       "highlights": [
-        "Topics covered: data quality improvement (absence imputation, granularity standardization, super-resolution, anomaly detection).",
-        "Applied Machine Learning and Deep Learning techniques to energy data.",
-        "Utilized Python, Pandas, Numpy, TensorFlow, Scikit-learn, Jupyter notebooks, Matplotlib, and Plotly.",
-        "Developed AI models using Azure Machine Learning, Azure Blob Storage, and Azure Container Apps."
+        "Designed AI-based proof-of-concept solutions for energy management and optimisation.",
+        "Developed novel ML and DL techniques for time series forecasting, reconstruction, super-resolution, and anomaly detection.",
+        "Processed and analysed large-scale energy datasets exceeding 100,000 time series.",
+        "Designed anomaly detection architectures supporting public–private R&D funding acquisition.",
+        "Implemented forecasting systems enabling near real-time inference across energy assets.",
+        "Participated in the deployment of scalable cloud-based AI solutions."
       ]
     },
     {
-      "name": "University of Leon / INCIBE",
-      "position": "Researcher in Computer Vision and Machine Learning",
+      "name": "University of León / INCIBE",
+      "position": "Researcher / Technology Implementer",
       "url": "https://www.incibe.es",
-      "startDate": "2016-07-01",
+      "startDate": "2016-04-01",
       "endDate": "2018-03-01",
-      "summary": "Research into creation of computer vision models based on Deep Learning applied to cybersecurity contexts in police environments.",
+      "summary": "Applied research in computer vision and machine learning for cybersecurity and security-related applications.",
       "highlights": [
-        "Topics covered: face detection, age and gender estimation, face recognition.",
-        "Computer Vision, Machine Learning, and Deep Learning.",
-        "Python, Caffe, OpenCV, OpenBR, TensorFlow, Flask, Docker."
-      ]
-    },
-    {
-      "name": "INDRA",
-      "position": "Software Developer",
-      "url": "https://www.indracompany.com/",
-      "startDate": "2015-11-01",
-      "endDate": "2016-07-01",
-      "summary": "Development of an Android system for remote management of physical signal jammers designed for Spanish state law enforcement agencies.",
-      "highlights": [
-        "Topics covered: Android, signal management.",
-        "Java, C, C++."
-      ]
-    },
-    {
-      "name": "University of Leon",
-      "position": "Developer and research internship",
-      "url": "https://www.unileon.es/",
-      "startDate": "2015-03-01",
-      "endDate": "2015-10-01",
-      "summary": "Development of a portable artificial intelligence system comprising face detection, recognition, and age and gender estimation, designed for small appliances.",
-      "highlights": [
-        "Topics covered: face detection, face recognition, age estimation, gender estimation.",
-        "Python, OpenCV, OpenBR, HTML, Javascript, JQuery, CSS.",
-        "Raspberry PI2, ODroid U3."
-      ]
-    },
-    {
-      "name": "Hewlett-Packard",
-      "position": "Developer internship",
-      "url": "https://www.hp.com/",
-      "startDate": "2014-10-01",
-      "endDate": "2015-06-01",
-      "summary": "Development of a surveillance solution for remote cameras to detect movement, store video in the cloud, and notify clients with alarms.",
-      "highlights": [
-        "Topics covered: IP/USB Cameras, codecs for video compression, data storage, phone events.",
-        "C#, Java, Android, HTML, Javascript, JQuery, CSS.",
-        "IP/USB Cameras, Raspberry PI2.",
-        "Dropbox cloud."
+        "Developed AI techniques for image processing, classification, and regression.",
+        "Specialised in face detection, face recognition, and age and gender estimation.",
+        "Designed computer vision models suitable for real-world operational environments.",
+        "Packaged and deployed AI models as REST APIs for external integration."
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "Universidad de León, León, Spain",
-      "url": "https://www.unileon.es/",
-      "area": "Production and Computer Engineering (Artificial Intelligence)",
-      "studyType": "PhD in Artificial Intelligence",
-      "startDate": "2016",
-      "endDate": "2023",
-      "score": "10 (Cum Laude)",
-      "courses": [
-        "Artificial Intelligence, Machine Learning, Deep Learning",
-        "Energy Time Series, Energy Load Profiles, Photovoltaic Systems",
-        "Forecasting, Comparison, Synthesis, Prediction, Anomaly detection, Clustering"
+      "institution": "University of León",
+      "url": "https://www.unileon.es",
+      "area": "Artificial Intelligence",
+      "studyType": "PhD in Artificial Intelligence (Industrial Engineering and Computer Science)",
+      "startDate": "2017-02-01",
+      "endDate": "2023-06-01",
+      "score": "Cum Laude"
+    },
+    {
+      "institution": "University of León",
+      "url": "https://www.unileon.es",
+      "area": "Computer Science",
+      "studyType": "Master's Degree in Computer Science",
+      "startDate": "2015-09-01",
+      "endDate": "2017-06-01"
+    },
+    {
+      "institution": "University of León",
+      "url": "https://www.unileon.es",
+      "area": "Computer Science",
+      "studyType": "Bachelor's Degree in Computer Science",
+      "startDate": "2010-09-01",
+      "endDate": "2015-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Large Language Models",
+        "Retrieval-Augmented Generation (RAG)",
+        "Agent-based architectures"
       ]
     },
     {
-      "institution": "Universidad de León, León, Spain",
-      "url": "https://www.unileon.es/",
-      "area": "Computer Science",
-      "studyType": "Master's degree in Computer Science",
-      "startDate": "2015",
-      "endDate": "2017",
-      "score": ""
+      "name": "Natural Language Processing",
+      "keywords": [
+        "Text representation",
+        "Classification",
+        "Information extraction",
+        "Domain-specific assistants",
+        "LLM fine-tuning"
+      ]
     },
     {
-      "institution": "Universidad de León, León, Spain",
-      "url": "https://www.unileon.es/",
-      "area": "Computer Science",
-      "studyType": "Bachelor's degree in Computer Science",
-      "startDate": "2010",
-      "endDate": "2015",
-      "score": ""
-    }
-  ],
-  "awards": [
-    {
-      "title": "PhD Dissertation with Distinction",
-      "date": "2023-06",
-      "awarder": "University of León",
-      "summary": "Received a Cum Laude award for the PhD dissertation with an industrial mention."
+      "name": "Data & Time Series",
+      "keywords": [
+        "Time Series Analysis",
+        "Forecasting",
+        "Anomaly Detection",
+        "Predictive Maintenance",
+        "Feature Engineering"
+      ]
     },
     {
-      "title": "Extraordinary End-of-Career Award",
-      "date": "2018-03",
-      "awarder": "Universidad de León",
-      "summary": "Honored with the Extraordinary End-of-Career Award for the Master's degree in Computer Science."
-    },
-    {
-      "title": "1st Position in Hack2Progress",
-      "date": "2016-11",
-      "url": "https://web.unican.es/noticias/Paginas/2016/noviembre_2016/El-proyecto-Dynamics-Bus-gana-el-II-Hack2Progress.aspx",
-      "awarder": "CIC Consulting Informático",
-      "summary": "Achieved the first position in the Hack2Progress 2016 hackathon held in Santander, Spain."
-    },
-    {
-      "title": "2nd Position in HackForGood",
-      "date": "2016-02",
-      "awarder": "HackForGood",
-      "summary": "Secured the second position in the HackForGood 2016 hackathon held in León, Spain."
-    },
-    {
-      "title": "Best IT Project",
-      "date": "2015-07",
-      "awarder": "HP (Observatory)",
-      "summary": "Received an award for developing the best IT project for the HP Observatory in 2015, located in León, Spain."
+      "name": "Software & MLOps",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "AI system architecture",
+        "Model deployment",
+        "Monitoring and versioning",
+        "Research-to-production workflows"
+      ]
     }
   ],
   "certificates": [
     {
       "name": "Convolutional Neural Networks",
-      "issuer": "Deeplearning.ai through Coursera",
-      "date": "2018-11",
-      "url": "https://www.coursera.org/account/accomplishments/verify/24MNSGYST56P"
-    },
-    {
-      "name": "Structuring Machine Learning Projects",
-      "issuer": "Deeplearning.ai through Coursera",
-      "date": "2018-06",
-      "url": "https://www.coursera.org/account/accomplishments/verify/DADTT6PY98AU"
-    },
-    {
-      "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
-      "issuer": "Deeplearning.ai through Coursera",
-      "date": "2018-05",
-      "url": "https://www.coursera.org/account/accomplishments/verify/9SKDTKUXE36D"
+      "issuer": "DeepLearning.AI (Coursera)",
+      "date": "2018-11"
     },
     {
       "name": "Neural Networks and Deep Learning",
-      "issuer": "Deeplearning.ai through Coursera",
-      "date": "2018-05",
-      "url": "https://www.coursera.org/account/accomplishments/verify/6HFFAWXFMKES"
+      "issuer": "DeepLearning.AI (Coursera)",
+      "date": "2018-05"
+    },
+    {
+      "name": "Improving Deep Neural Networks",
+      "issuer": "DeepLearning.AI (Coursera)",
+      "date": "2018-05"
+    },
+    {
+      "name": "Structuring Machine Learning Projects",
+      "issuer": "DeepLearning.AI (Coursera)",
+      "date": "2018-06"
     }
   ],
   "publications": [
@@ -243,18 +241,41 @@
       "summary": ""
     }
   ],
-  "skills": [],
+  "awards": [
+    {
+      "title": "PhD Dissertation with Distinction (Cum Laude)",
+      "date": "2023-06",
+      "awarder": "University of León",
+      "summary": "Awarded Cum Laude distinction for the PhD dissertation, including an industrial mention."
+    },
+    {
+      "title": "Extraordinary End-of-Career Award",
+      "date": "2018-03",
+      "awarder": "University of León",
+      "summary": "Granted for outstanding academic performance in the Master's degree in Computer Science."
+    },
+    {
+      "title": "1st Position – Hack2Progress",
+      "date": "2016-11",
+      "awarder": "CIC Consulting Informático",
+      "summary": "First place at the Hack2Progress 2016 hackathon held in Santander, Spain."
+    },
+    {
+      "title": "2nd Position – HackForGood",
+      "date": "2016-02",
+      "awarder": "HackForGood",
+      "summary": "Second place at the HackForGood 2016 hackathon held in León, Spain."
+    }
+  ],
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "C1 (Fluent)"
     }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
+  ]
 }
+

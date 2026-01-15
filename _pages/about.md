@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D in Artificial Intelligence. Chief AI Officer at SMARKIA.
+subtitle: PhD in Artificial Intelligence · Founder of RelevAI & AI Consultant · Former Chief AI Officer
 
 profile:
   align: right
@@ -11,20 +11,23 @@ profile:
   address: >
     <p>León, Spain</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a technology enthusiast who has been fascinated by computers since I first started programming in Basic on an Amstrad CPC 6128 back in 1996. This curiosity led me to formally study computer science at the University of León (Spain), where I earned my bachelor's degree in 2015, followed by a master's degree in computer engineering in 2017. In 2023, I completed my Ph.D. in production engineering and computing, focusing on applying artificial intelligence to optimize energy consumption and production management.
+I’m a PhD-level Artificial Intelligence specialist focused on **designing and deploying applied AI systems that actually work in production**.
 
-During my Ph.D., I worked on developing AI methods like custom neural networks and techniques for analyzing time-series energy data. The goal was to find practical solutions for challenges like data imputation, anomaly detection, and classification—things that could have a real impact on how we use and manage energy.
+My work sits at the intersection of **Large Language Models, applied machine learning, and AI system architecture**. Over the past years, I’ve led and implemented AI solutions across both industry and research, ranging from **energy analytics and predictive maintenance** to **LLM-based assistants, retrieval-augmented generation (RAG) systems, and agent-based workflows**.
 
-Since 2014, I've been fortunate enough to work in different roles across both public research and the private sector. My journey began at the National Institute of Cybersecurity, and I later transitioned into the private sector with SMARKIA Energy SL, where I currently serve as Chief AI Officer (CAIO). In this role, I have the privilege of leading AI-driven initiatives that aim to create practical solutions for energy management, combining my passion for technology with real-world impact.
+I’m currently the **Founder and CEO of RelevAI**, where I help organizations design, build, and deploy AI-powered solutions tailored to real business needs. Previously, I served as **Chief Artificial Intelligence Officer at SMARKIA Energy**, leading enterprise-wide AI strategy and execution within a large-scale SaaS environment.
 
-I’m most comfortable working with Python and its ecosystem of tools like Numpy, Pandas, TensorFlow, and Scikit-Learn. I also have experience with server administration in Linux environments, especially Debian and Ubuntu, and I enjoy exploring the capabilities of Microsoft Azure’s cloud services for deploying scalable solutions.
+My background includes an **industrial Ph.D. in Artificial Intelligence**, developed in close collaboration with industry, where I focused on time series analysis, forecasting, anomaly detection, and scalable AI pipelines for energy systems. This experience shaped a strong research-to-production mindset that continues to guide my work today.
 
-Outside of work, I’ve been involved in research, publishing a few articles in scientific journals, and I’ve had the chance to participate in Hackathons and present at conferences around the world. I also developed a Python package called [MTCNN](https://github.com/ipazc/mtcnn) for face detection, which has received some positive feedback from the open-source community.
+Technically, I work primarily with **Python** and modern AI stacks, including machine learning, deep learning, NLP, and LLM-based architectures. I have hands-on experience designing **end-to-end AI systems**, from data processing and model development to deployment, monitoring, and integration into existing platforms.
 
-At the end of the day, I consider myself a lifelong learner who’s always eager to take on new challenges, whether it's through research, coding, or just experimenting with new technologies.
+Beyond client work, I remain active in research, with publications in international journals and conferences, and I enjoy contributing to open-source and technical communities. I approach my work with a strong focus on clarity, maintainability, and real-world impact.
+
+I consider myself a **pragmatic technologist**: research-driven when needed, product-oriented by default, and always curious about how emerging AI capabilities can be turned into robust, usable systems.
+
